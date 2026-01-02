@@ -1,0 +1,199 @@
+Module 1 - Programming
+clock_icon
+10 Weeks
+Strong basics are non-negotiable. That's why we start with programming fundamentals - SQL, Python.
+
+Python will help you write clean code, solve problems, and handle complex datasets with ease.
+
+SQL, on the other hand, is the key to extracting and managing data from real-world databases.
+
+Together, they’ll give you the confidence to engineer scalable data pipelines and tackle the challenges of modern data systems head-on.
+
+Topics covered:
+
+SQL
+
+Intro to SQL and Advance Select
+Joins
+Sorting and Grouping
+Aggregation
+CTEs
+Subqueries
+Advance string functions, regex/clause
+Windowing Functions
+Recursive CTE
+Python
+
+Python Refresher
+Functional Programming
+Modules,Errors and Exceptions
+OOPS
+NumPy
+Pandas + Data Visualisation
+Project: Navigating the Stock market with Python
+
+Module 2 - Data Engineering Fundamentals
+clock_icon
+5 Weeks
+Now that your basics are clear, it’s time to move into Data Engineering Fundamentals. This module is all about three core areas: data management systems, data warehousing, and data modeling.
+
+In data management systems, you’ll understand how relational and NoSQL databases actually work covering indexing, clustering, sharding, and the difference between OLTP and OLAP.
+
+In data warehousing, you’ll see how large-scale data is stored, organized, and optimized for analysis, while also getting hands-on with tools like DBT and Airflow.
+
+In data modeling, you’ll practice designing schemas and solving real-world problems across domains like banking, e-commerce, and healthcare.
+
+By the end, you’ll know how to design, manage, and scale data systems—the core of being a data engineer.
+
+Topics covered:
+
+Database Management Systems
+
+Introduction to Database
+Types of Database - RDBMS, NoSQL, Columnar, Graph (With real-world use cases)
+ACID properties
+Database Architecture
+ER Modelling
+Normalization & Denormalization
+Data Warehousing
+
+OLTP vs OLAP
+Data Warehousing Architecture
+Facts Vs Dimensions
+Star and snowflake schema
+ELT Tools
+SCDs - Type 1, 2, 3
+Introduction to popular Tools - DBT, Airflow
+Indexing and Clustering
+Sharding & Query Optimisation
+Data Management Strategies
+Problem solving on Data Modelling
+
+Banking System
+Cab Booking
+E-commerce
+Netflix
+Learning Management system like Bosscoder
+Health care System like fortis
+
+Module 3 - Data Engineering Tools
+clock_icon
+6 weeks
+You’ve already built your basics in programming and data engineering fundamentals. Now it’s time to use and learn the actual tools that data engineers work with daily
+
+First, you’ll learn ETL and integration tools like DBT, Airflow, and Fivetran these help you move data and shape it the way you need.
+
+Next, you’ll get into big data platforms like Snowflake, BigQuery, Databricks, and Hadoop; the same systems companies rely on to manage data at massive scale.
+
+You’ll dive into Apache Spark and Kafka to learn how massive data streams are processed and delivered in real time. From there, you’ll explore how large-scale data systems are designed for scalability, fault tolerance, and reliability.
+
+By the end, you’ll know how to build, orchestrate, and manage pipelines that are ready for real-world performance.
+
+Topics covered:
+
+ETL - Data Integration Tools
+
+DBT
+Apache Airflow
+fivetran
+Big Data Fundamentals
+
+Snowflake
+Google Bigquery
+Databricks
+Hadoop distributed file system
+Real-Time & Distributed Processing
+
+Apache Spark
+Apache Kafka
+System Design for Data Engineering
+
+Batch vs Streaming (Lambda, Kappa)
+Ingest → Process → Store → Serve
+Netflix/Uber-style Pipelines
+Scalability & Fault Tolerance
+
+Module 4 - Cloud Technologies
+clock_icon
+5 weeks
+Almost every big product company runs their data on the cloud and now you’ll learn how to do it too.
+
+You’ll work with the three important platforms: AWS, GCP, and Azure. Step by step, you’ll see how data is stored, processed, and secured using services like Amazon S3, RDS, Glue, Google BigQuery, Dataflow, and Azure Synapse.
+
+And to complete your cloud learning, you’ll dive into DevOps for Data Engineering mastering CI/CD pipelines, infrastructure automation, and containerization using Jenkins, Terraform, Docker, and Kubernetes.
+
+By the end, you’ll be prepared to design and manage scalable, secure, and efficient cloud-based data solutions across multiple environments.
+
+Topics covered:
+
+GCP
+
+GCP - Bigquery
+Google Cloud Storage
+Dataflow
+Dataproc
+Azure
+
+Azure Synapse Analytics
+Azure Data Lake Storage
+Azure Data Factory
+Azure Databricks
+AWS
+
+Intro to Cloud
+Amazon S3
+Amazon RDS/Aurora
+AWS Glue
+AWS Data Migration Services
+Elastic Compute Cloud(EC2)
+EC2 + Load Balancer
+EC2 + Auto scaling
+AWS Lambda
+IAM (Identification and access management)
+KMS (key management service)
+AWS Cloudwatch
+AWS Cloudtrail
+
+Module 5 - Focused DSA for Data engineers
+clock_icon
+8 weeks
+Every product company asks DSA in interviews - the only difference is the difficulty level, which changes with the role. In this module, we’ll cover exactly the amount of DSA you need to crack data engineering interviews at top product companies. Nothing extra, only what matters.
+
+Topics covered:
+
+DSA
+
+Time Complexity and Space Complexity
+Arrays
+Maths
+BIT Manipulation
+Strings
+Binary Search
+Recursion
+Backtracking
+Sorting
+2 Pointers
+Hashing
+Stacks and Queues
+Linked Lists
+Binary Trees
+DP
+Graphs
+
+
+Module 6 - Machine Learning in Data engineering
+clock_icon
+2 weeks
+Machine learning is reshaping every industry today. As tech professionals, it’s important for all of us to have a basic understanding of how it works. That’s why, in this module, we start with the fundamentals covering the core maths behind ML, and the basics of supervised and unsupervised learning.
+
+And to keep you future-ready, we dive into Agentic AI giving you the idea of the most recent advancement in machine learning.
+
+Topics covered:
+
+Basics of Machine Learning
+
+Maths for ML
+Supervised Learning
+Unsupervised Learning
+Agentic AI
+
